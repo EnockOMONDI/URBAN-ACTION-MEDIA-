@@ -74,6 +74,14 @@ hr {
 	border: 0;
 	margin: 10px auto 30px;
 }
+
+.logo-img{
+ width: 170px;
+ cursor: pointer;
+ float: left;
+    margin: 0px 30px 15px 0px;
+
+}
 /* Navigation */
 #menu {
 	padding: 20px;
